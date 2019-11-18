@@ -1,0 +1,12 @@
+ul.skills {
+    list-style-image: url("../img/icon16.png");
+}
+
+div.container {
+    width: 860px;
+    max-width: 860px;
+}
+
+a.btn-outline-light {
+    border: none;
+}
