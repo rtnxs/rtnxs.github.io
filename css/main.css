@@ -10,3 +10,8 @@ div.container {
 a.btn-outline-light {
     border: none;
 }
+
+img.avatar {
+   width: 200px;
+   height: 200px;
+}
