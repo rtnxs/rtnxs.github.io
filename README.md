@@ -1,1 +1,1 @@
-my curriculum vitae with Bootstrap
+Моё резюме
